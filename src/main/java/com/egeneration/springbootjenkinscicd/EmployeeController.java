@@ -13,7 +13,7 @@ public class EmployeeController {
 
   @GetMapping("/hello")
   public String getMessage() {
-    return "Salam";
+    return "Salam to All";
   }
 
 }
